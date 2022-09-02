@@ -1,6 +1,6 @@
 My first readme
 
-The following steps is a short discription of we were able to build
+The following steps is a short discription of how we were able to build
 this project and it's essence
 
 You pushed your first file in your first repository of the first task of your first ALX School project
